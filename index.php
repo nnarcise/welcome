@@ -1,1 +1,1 @@
-Welcome to OpenShift 3!!
+Welcome to OpenShift 
