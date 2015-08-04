@@ -1,1 +1,1 @@
-Welcome to OpenShift Application Folks!!
+Welcome to OpenShift Version 3 !!
