@@ -1,1 +1,1 @@
-Welcome CNN to OpenShift Version 3 !!
+Welcome BOA to OpenShift Version 3 !!
