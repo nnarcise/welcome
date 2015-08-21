@@ -1,1 +1,1 @@
-Welcome BOA to OpenShift Version 3 !!
+Welcome to OpenShift Version 3 !!
